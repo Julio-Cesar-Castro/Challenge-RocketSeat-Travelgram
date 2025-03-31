@@ -1,9 +1,9 @@
 
 <!-- ![alt text](image-1.png) -->
 
-# ✈🌎 Travel Gram
+# ✈🌎 Travelgram
 
-Desenvolvido para realizar treinamento do display grid e boas práticas com ```CSS``` Travel Gram conta com um ótimo design responsivel e moderno.
+Desenvolvido para realizar treinamento do display grid e boas práticas com ```CSS``` Travelgram conta com um ótimo design responsivel e moderno.
 
 ![Projeto](image-2.png)
 
