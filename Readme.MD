@@ -59,6 +59,6 @@ Desenvolvido para realizar treinamento do display grid e boas práticas com ```C
 ## 🎁 Expressões de gratidão
 
 * Foi uma ótima experiência desenvolver esse projeto e aperfeiçoar novas habilidades 📢;
-* Imensa gratidão a equipe da RocketSeat pelo Design e aprendizado! - [Linkdln](https://www.linkedin.com/school/rocketseat/posts/?feedView=all)
+* Imensa gratidão a equipe da RocketSeat pelo Design e aprendizado! - [RocketSeat](https://www.linkedin.com/school/rocketseat/posts/?feedView=all)
 ---
 Escrito por [Julio Castro](https://www.linkedin.com/in/julio-cesar-castro-dev/) 😊
