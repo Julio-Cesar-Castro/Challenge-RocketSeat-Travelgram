@@ -229,4 +229,10 @@ footer div {
   .infoProfile {
     margin-top: 2rem;
   }
+
+  footer {
+    flex-direction: column;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
 }
