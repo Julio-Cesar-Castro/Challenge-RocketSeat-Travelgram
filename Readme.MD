@@ -12,19 +12,17 @@ Desenvolvido para realizar treinamento do display grid e boas práticas com ```C
 * HTML - <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            width="20"
+            width="10"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
             align="center"
         />
-
 * CSS - <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            width="20"
+            width="10"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             align="center"
         />
-
 * Responsividade - 
         <img 
             alt="Total de estrelas" 
@@ -33,19 +31,17 @@ Desenvolvido para realizar treinamento do display grid e boas práticas com ```C
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             align="center"
         />
-
 * Mobile First - <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            width="20"
+            width="10"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             align="center"
         />
-
 * Media Queries - <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            width="20"
+            width="10"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             align="center"
         />
