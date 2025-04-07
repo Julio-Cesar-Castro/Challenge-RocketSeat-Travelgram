@@ -5,7 +5,7 @@
 
 Desenvolvido para realizar treinamento do display grid e boas práticas com ```CSS``` Travelgram consta com um ótimo design responsivo e moderno.
 
-![Projeto](image-2.png)
+![Projeto](Estrela-do-amanha)
 
 ## 🛠️ Construído com
 
